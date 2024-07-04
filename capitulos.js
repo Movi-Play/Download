@@ -1,4 +1,4 @@
-<script>
+
         document.addEventListener("DOMContentLoaded", async function() {
             const apiKey = 'c2a30192cfbf4e95acbb656bf3af6177';
             const tvShowLink = document.querySelector('.mobile_header.content a').href;
@@ -52,4 +52,4 @@
 
             await updateEpisodeNames();
         });
-    </script>
+ 
